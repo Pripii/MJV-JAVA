@@ -15,7 +15,7 @@ Foi desenvolvida uma Api em Java com Spring Boot para criação de Playlists de 
 - [PostegresSQL](https://www.postgresql.org/)
 
 <h3>📝Desenvolvimento do Projeto📝</h3>
-O sistema foi configurado com base no Spring Framework, o JPA na persistência de dados e interface Swagger. O banco de dados foi feito no Postgres.
+O projeto foi desenvolvido com base no MVC (com pacotes model, controller e repository). O sistema foi configurado com base no Spring Framework, o JPA na persistência de dados e interface Swagger. O banco de dados foi feito no Postgres.
 
 
 - Diagrama de classes (UML):
