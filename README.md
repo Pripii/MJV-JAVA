@@ -24,3 +24,33 @@ O sistema foi configurado com base no Spring Framework, o JPA na persistência d
 
 
 - Para acessar a API documentada no Swagger foi utilizada a url : http://localhost:8080/swagger-ui/index.html
+
+
+<h3>📂Apresentação📂</h3>
+
+1.Criando usuário, playlist e música:
+{
+  "nomeUsuario": "Rubens",
+  "email": "rubens@gmail.com",
+  "playlist": {
+    "nomePlaylist": "Hip hip uha",
+    "musicas": [
+      {
+        "genero": "HIPHOP",
+        "autores": "Post Malone",
+        "titulo": "Congratulations",
+        "duração": 3.12
+}
+
+1.Adicionando música na playlist:
+{
+ "genero": "HIPHOP",
+  "autores": "Post Malone",
+  "titulo": "Wow",
+  "duração": 2.30
+}
+
+3.Deletando música na playlist:
+{
+  idMusica: 6
+}
