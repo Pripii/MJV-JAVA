@@ -44,7 +44,7 @@ O sistema foi configurado com base no Spring Framework, o JPA na persistência d
 }
 ```
 
-2.Adicionando música na playlist:
+2.Criando música:
 ```
 {
  "genero": "HIPHOP",
@@ -54,7 +54,7 @@ O sistema foi configurado com base no Spring Framework, o JPA na persistência d
 }
 ```
 
-3.Deletando música na playlist:
+3.Deletando música:
 ```
 {
   idMusica: 6
