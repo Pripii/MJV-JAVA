@@ -17,6 +17,7 @@ Foi desenvolvida uma Api em Java com Spring Boot para criação de Playlists de 
 <h3>📝Desenvolvimento do Projeto📝</h3>
 O sistema foi configurado com base no Spring Framework, o JPA na persistência de dados e documentação Swagger. O banco de dados foi feito a partir do Postgres.
 
+
 - Diagrama de classes (UML):
 
 ![umlPlaylist](https://user-images.githubusercontent.com/99191483/169045393-f3aaea1d-a7d5-481b-9f25-3058b7620402.png)
