@@ -29,6 +29,7 @@ O sistema foi configurado com base no Spring Framework, o JPA na persistência d
 <h3>📂Apresentação📂</h3>
 
 1.Criando usuário, playlist e música:
+```
 {
   "nomeUsuario": "Rubens",
   "email": "rubens@gmail.com",
@@ -41,16 +42,21 @@ O sistema foi configurado com base no Spring Framework, o JPA na persistência d
         "titulo": "Congratulations",
         "duração": 3.12
 }
+```
 
-1.Adicionando música na playlist:
+2.Adicionando música na playlist:
+```
 {
  "genero": "HIPHOP",
   "autores": "Post Malone",
   "titulo": "Wow",
   "duração": 2.30
 }
+```
 
 3.Deletando música na playlist:
+```
 {
   idMusica: 6
 }
+```
