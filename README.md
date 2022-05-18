@@ -19,7 +19,7 @@ O sistema foi configurado com base no Spring Framework, o JPA na persistência d
 
 - Diagrama de classes (UML):
 
-![umlPlaylist](https://app.diagrams.net/?src=about)
+![umlPlaylist](https://user-images.githubusercontent.com/99191483/169045393-f3aaea1d-a7d5-481b-9f25-3058b7620402.png)
 
 
 - Para acessar a API documentada no Swagger foi utilizada a url : http://localhost:8080/swagger-ui/index.html
